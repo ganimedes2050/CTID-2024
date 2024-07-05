@@ -40,7 +40,7 @@ Instrucciones para los autores:
 Los trabajos podrán enviarse en español o inglés siguiendo las siguientes normas:
 
 Formato del Paper
-Los autores deben enviar sus trabajos por mail a la cuenta ctid2024@defensa.gob.ar del Congreso, con las siguientes pautas:
+Los autores deben enviar sus trabajos por mail a la cuenta Ctid2024@defensa.gob.ar del Congreso, con las siguientes pautas:
 
 Idioma: Español o Inglés
 Máximo 10 páginas sin numerar.
