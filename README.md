@@ -1,13 +1,13 @@
 
 
-<img width="350" height="90" alt="logo ctid2025-azul" src="https://github.com/user-attachments/assets/bc7142c7-8728-4b56-9302-046f407d130f" />
+< />
 
 <p align="center"> 
-  <strong> Deben entregar los pptx de las ponencias y los posters antes del 6/10 </strong> 
+  <strong> finalizado </strong> 
 </p>
 
 <p>📢 Invitación a publicar trabajos en Ciencia, Tecnología e Innovación para la Defensa</p>
-<p>Se invita a investigadores y profesionales en temáticas de Ciencia, Tecnología e Innovación (CTI) de interés para la Defensa a enviar sus trabajos para su publicación en el marco del Congreso CTID 2025, a realizarse los días 8 y 9 de octubre del corriente año.</p>
+<p>Se invita a investigadores y profesionales en temáticas de Ciencia, Tecnología e Innovación (CTI) de interés para la Defensa a enviar sus trabajos para su publicación en el marco del Congreso CTID 2026, a realizarse los días 8 y 9 de octubre del corriente año.</p>
 
 <h2>🔹 Áreas de interés:</h2>
 <ul>
@@ -53,22 +53,22 @@
     <ul>
       <li>Extensión máxima: 150 palabras</li>
       <li><strong>Formato del título:</strong> "apellido y nombre_institución_código de área de interés" (ejemplo: Pérez Diego_citedef_01)</li>
-      <li><strong>Fecha límite:</strong>Fecha límite: 5 de agosto de 2025 hasta las 12:00 hs </li>
+      <li><strong>Fecha límite:</strong>Fecha límite: 5 de agosto de 2026 hasta las 12:00 hs </li>
     </ul>
   </li>
   <li><strong>Notificación de aceptación:</strong> 
     <ul>
-      <li>Fecha de notificación: 12 de agosto de 2025 </li>
+      <li>Fecha de notificación: 12 de agosto de 2026 </li>
     </ul>
   </li>
   <li><strong>Envío de trabajos completos:</strong> 
     <ul>
-      <li>Fecha límite: 1 de Septiembre de 2025</li>
+      <li>Fecha límite: 1 de Septiembre de 2026</li>
     </ul>
   </li>
   <li><strong>Notificación final:</strong> 
     <ul>
-      <li>Fecha de notificación: 25 de septiembre de 2025</li>
+      <li>Fecha de notificación: 25 de septiembre de 2026</li>
     </ul>
   </li>
 </ol>
@@ -91,7 +91,7 @@
   <li>Sin encabezado ni pie de página</li>
   <li><strong>Enviar a:</strong> <a href="mailto:ctid@defensa.gob.ar">ctid@defensa.gob.ar</a></li>
   <li><strong>Formatos aceptados:</strong>PDF respetando la tipografía y formato establecidos en las plantillas.</li>
-  <li><strong>Entrega de material:</strong> Se recibe material digital de exponentes y poster para su exposición (fecha límite de entrega: 6/10/2025)</li>
+  <li><strong>Entrega de material:</strong> Se recibe material digital de exponentes y poster para su exposición (fecha límite de entrega: 6/10/2026)</li>
 </ul>
 
 <p align="center">
